@@ -62,3 +62,8 @@ Feel free to submit pull requests or open issues for bugs and feature requests.
 
 ## License
 Licensed under the MIT License.
+
+
+# #########################################################################################################
+## Suggested Improvement
+Add a section in the UI to display recent searches for quick access.
